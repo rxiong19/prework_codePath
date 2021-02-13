@@ -1,0 +1,5 @@
+codepath/com/BuildConfig.java
+ codepath.com.BuildConfig
+codepath/com/MainActivity.java
+ codepath.com.MainActivity
+ codepath.com.MainActivity$1
